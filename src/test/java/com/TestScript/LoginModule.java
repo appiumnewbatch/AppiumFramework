@@ -23,5 +23,10 @@ public class LoginModule extends BaseAutomation {
 		Thread.sleep(4000);
 		
 	}
+	
+	@Test
+	public void homepage(){
+		
+	}
 
 }
