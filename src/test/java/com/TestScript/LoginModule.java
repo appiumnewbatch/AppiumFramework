@@ -28,5 +28,10 @@ public class LoginModule extends BaseAutomation {
 	public void homepage(){
 		
 	}
+	
+	@Test
+	public void verify(){
+		
+	}
 
 }
